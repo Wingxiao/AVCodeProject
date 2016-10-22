@@ -1,3 +1,4 @@
+======================================================================
 AVCodeProject is about audio and video code project.
 
 this project contain below :
@@ -11,3 +12,5 @@ this project contain below :
 this is project create by myself. today is 10/24/2014. 
 
 create by gitHub.com
+
+=======================================================================
